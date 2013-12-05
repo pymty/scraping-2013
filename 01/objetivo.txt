@@ -1,0 +1,4 @@
+Entrar a la siguiente pagina
+http://pcel.com/
+
+Y obtener todos los nombres y precios en la pagina principal
